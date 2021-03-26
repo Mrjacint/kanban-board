@@ -4,7 +4,7 @@ This is a simple Kanban board. This tool help to managed your personal works and
 
 <br/>
 <a href='https://mrjacint.github.io/kanban-board/'>
-<img src='./screenshot.jpg' width=60% />
+<img src='https://mrjacint.github.io/kanban-board/screenshot.jpg' width=60% />
 </a>
 
 ## Fetures
