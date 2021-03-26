@@ -5,7 +5,7 @@ This is a simple Kanban board. This tool help to managed your personal works and
 <br/>
 <p algin='center'>
 <a href='https://mrjacint.github.io/kanban-board/'>
-<img src='https://mrjacint.github.io/kanban-board/screenshot.jpg' width=60% >
+<img src='Screenshot.jpg' width=60% >
 </a>
 </p>
 
