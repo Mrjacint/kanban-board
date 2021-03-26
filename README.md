@@ -4,13 +4,13 @@ This is a simple Kanban board. This tool help to managed your personal works and
 
 ## How to use
 
-###Add item
+### Add item
 Just simple click on Add item on any of the coloum then type in your subject then click on the Save item button.
 
-###Move item
+### Move item
 Click on the item what you want ot move then drag it to the coloum of your choice
 
-###Delete item
+### Delete item
 Click on the item which you want to remove then delte text from the input field then click aside.
 
 ## Demo
