@@ -4,19 +4,15 @@ This is a simple Kanban board. This tool help to managed your personal works and
 
 <br/>
 <a href='https://mrjacint.github.io/kanban-board/'>
-<img src='screenshot.jpg' width=60% />
+<img src='./screenshot.jpg' width=60% />
 </a>
 
 ## Fetures
-
----
 
 - Drag & Drop elemnts
 - Using Browser Local Storage to store data
 
 ## How to use
-
----
 
 ### **Add item**
 
@@ -32,13 +28,9 @@ Click on the item which you want to remove then delte text from the input field 
 
 ## Demo
 
----
-
 [Kanban-board](https://mrjacint.github.io/kanban-board/)
 
 ## Installation
-
----
 
 Don't need to install. Just clone this repo then double click to index.html or [visit here](https://mrjacint.github.io/kanban-board/).
 
